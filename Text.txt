@@ -1,0 +1,4 @@
+Typescript Setup
+. Setting up a Typescript project
+. Configuration tsconfig.json
+. Compiling Typescript
